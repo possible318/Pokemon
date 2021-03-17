@@ -45098,7 +45098,7 @@ module.exports = [
         "index": 837
     },
     {
-        "id": "741a",
+        "id": "741-pom",
         "name": "Oricorio",
         "cname": "花舞鸟",
         "form": "Pom",
@@ -45143,7 +45143,7 @@ module.exports = [
         "index": 838
     },
     {
-        "id": "741b",
+        "id": "741-pau",
         "name": "Oricorio",
         "cname": "花舞鸟",
         "form": "Pau",
@@ -45188,7 +45188,7 @@ module.exports = [
         "index": 839
     },
     {
-        "id": "741c",
+        "id": "741-sensu",
         "name": "Oricorio",
         "cname": "花舞鸟",
         "form": "Sensu",
