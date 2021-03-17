@@ -1,7 +1,7 @@
 <!--index.wxml-->
 <view class="container">
   <view class="m-sprite" bindtap="toResist" data-id="{{sprite.id}}">
-    <image class="m-avatar" src="/img/sprites/{{sprite.id}}.png"></image>
+    <image class="m-avatar" src="/img/sprites-2/{{sprite.id}}.png"></image>
     <!-- 添加高清大图  -->
     <view class="m-info">
       <view class="name">
@@ -163,7 +163,7 @@
           <text wx:else class="nolevel">''</text>
           <view class="evoIteminner" bindtap="tapSprite" data-id="{{evolute.id}}" data-index="{{evolute.index}}">
             <view class="avatarctn">
-              <image class="m-avatar" src="/img/sprites/{{evolute.id }}.png"></image>
+              <image class="m-avatar" src="/img/sprites-2/{{evolute.id }}.png"></image>
             </view>
             <text class="name">{{evolute.cname}}</text>
           </view>
