@@ -180,7 +180,7 @@ module.exports = [
     "index": 2
   },
   {
-    "id": "003a",
+    "id": "003-mega",
     "name": "Venusaur",
     "cname": "妙蛙花",
     "form": "Mega",
@@ -416,7 +416,7 @@ module.exports = [
     "index": 6
   },
   {
-    "id": "006a",
+    "id": "006-mega-x",
     "name": "Charizard",
     "cname": "喷火龙",
     "form": "MegaX",
@@ -476,7 +476,7 @@ module.exports = [
     "index": 7
   },
   {
-    "id": "006b",
+    "id": "006-mega-y",
     "name": "Charizard",
     "cname": "喷火龙",
     "form": "MegaY",
@@ -710,7 +710,7 @@ module.exports = [
     "index": 11
   },
   {
-    "id": "009a",
+    "id": "009-mega",
     "name": "Blastoise",
     "cname": "水箭龟",
     "form": "Mega",
@@ -1119,7 +1119,7 @@ module.exports = [
     "index": 18
   },
   {
-    "id": "015a",
+    "id": "015-mega",
     "name": "Beedrill",
     "cname": "大针蜂",
     "form": "Mega",
@@ -1358,7 +1358,7 @@ module.exports = [
     "index": 22
   },
   {
-    "id": "018a",
+    "id": "018-mega",
     "name": "Pidgeot",
     "cname": "大比鸟",
     "form": "Mega",
@@ -4745,7 +4745,7 @@ module.exports = [
     "index": 81
   },
   {
-    "id": "065a",
+    "id": "065-mega",
     "name": "Alakazam",
     "cname": "胡地",
     "form": "Mega",
@@ -6841,7 +6841,7 @@ module.exports = [
     "index": 117
   },
   {
-    "id": "094a",
+    "id": "094-mega",
     "name": "Gengar",
     "cname": "耿鬼",
     "form": "Mega",
@@ -8165,7 +8165,7 @@ module.exports = [
     "index": 141
   },
   {
-    "id": "115a",
+    "id": "115-mega",
     "name": "Kangaskhan",
     "cname": "袋兽",
     "form": "Mega",
@@ -8885,7 +8885,7 @@ module.exports = [
     "index": 154
   },
   {
-    "id": "127a",
+    "id": "127-mega",
     "name": "Pinsir",
     "cname": "凯罗斯",
     "form": "Mega",
@@ -9095,7 +9095,7 @@ module.exports = [
     "index": 158
   },
   {
-    "id": "130a",
+    "id": "130-mega",
     "name": "Gyarados",
     "cname": "暴鲤龙",
     "form": "Mega",
@@ -9852,7 +9852,7 @@ module.exports = [
     "index": 171
   },
   {
-    "id": "142a",
+    "id": "142-mega",
     "name": "Aerodactyl",
     "cname": "化石翼龙",
     "form": "Mega",
@@ -10313,7 +10313,7 @@ module.exports = [
     "index": 180
   },
   {
-    "id": "150a",
+    "id": "150-mega-x",
     "name": "Mewtwo",
     "cname": "超梦",
     "form": "MegaX",
@@ -10359,7 +10359,7 @@ module.exports = [
     "index": 181
   },
   {
-    "id": "150b",
+    "id": "150-mega-y",
     "name": "Mewtwo",
     "cname": "超梦",
     "form": "MegaY",
@@ -12130,7 +12130,7 @@ module.exports = [
     "index": 213
   },
   {
-    "id": "181a",
+    "id": "181-mega",
     "name": "Ampharos",
     "cname": "电龙",
     "form": "Mega",
@@ -13690,7 +13690,7 @@ module.exports = [
     "index": 241
   },
   {
-    "id": "208a",
+    "id": "208-mega",
     "name": "Steelix",
     "cname": "大钢蛇",
     "form": "Mega",
@@ -13954,7 +13954,7 @@ module.exports = [
     "index": 246
   },
   {
-    "id": "212a",
+    "id": "212-mega",
     "name": "Scizor",
     "cname": "巨钳螳螂",
     "form": "Mega",
@@ -14103,7 +14103,7 @@ module.exports = [
     "index": 249
   },
   {
-    "id": "214a",
+    "id": "214-mega",
     "name": "Heracross",
     "cname": "赫拉克罗斯",
     "form": "Mega",
@@ -14954,7 +14954,7 @@ module.exports = [
     "index": 265
   },
   {
-    "id": "229a",
+    "id": "229-mega",
     "name": "Houndoom",
     "cname": "黑鲁加",
     "form": "Mega",
@@ -16002,7 +16002,7 @@ module.exports = [
     "index": 285
   },
   {
-    "id": "248a",
+    "id": "248-mega",
     "name": "Tyranitar",
     "cname": "班基拉斯",
     "form": "Mega",
@@ -16361,7 +16361,7 @@ module.exports = [
     "index": 292
   },
   {
-    "id": "254a",
+    "id": "254-mega",
     "name": "Sceptile",
     "cname": "蜥蜴王",
     "form": "Mega",
@@ -16588,7 +16588,7 @@ module.exports = [
     "index": 296
   },
   {
-    "id": "257a",
+    "id": "257-mega",
     "name": "Blaziken",
     "cname": "火焰鸡",
     "form": "Mega",
@@ -16817,7 +16817,7 @@ module.exports = [
     "index": 300
   },
   {
-    "id": "260a",
+    "id": "260-mega",
     "name": "Swampert",
     "cname": "巨沼怪",
     "form": "Mega",
@@ -18125,7 +18125,7 @@ module.exports = [
     "index": 323
   },
   {
-    "id": "282a",
+    "id": "282-mega",
     "name": "Gardevoir",
     "cname": "沙奈朵",
     "form": "Mega",
@@ -19281,7 +19281,7 @@ module.exports = [
     "index": 344
   },
   {
-    "id": "302a",
+    "id": "302-mega",
     "name": "Sableye",
     "cname": "勾魂眼",
     "form": "Mega",
@@ -19374,7 +19374,7 @@ module.exports = [
     "index": 346
   },
   {
-    "id": "303a",
+    "id": "303-mega",
     "name": "Mawile",
     "cname": "大嘴娃",
     "form": "Mega",
@@ -19594,7 +19594,7 @@ module.exports = [
     "index": 350
   },
   {
-    "id": "306a",
+    "id": "306-mega",
     "name": "Aggron",
     "cname": "波士可多拉",
     "form": "Mega",
@@ -19759,7 +19759,7 @@ module.exports = [
     "index": 353
   },
   {
-    "id": "308a",
+    "id": "308-mega",
     "name": "Medicham",
     "cname": "恰雷姆",
     "form": "Mega",
@@ -19918,7 +19918,7 @@ module.exports = [
     "index": 356
   },
   {
-    "id": "310a",
+    "id": "310-mega",
     "name": "Manectric",
     "cname": "雷电兽",
     "form": "Mega",
@@ -20426,7 +20426,7 @@ module.exports = [
     "index": 366
   },
   {
-    "id": "319a",
+    "id": "319-mega",
     "name": "Sharpedo",
     "cname": "巨牙鲨",
     "form": "Mega",
@@ -20697,7 +20697,7 @@ module.exports = [
     "index": 371
   },
   {
-    "id": "323a",
+    "id": "323-mega",
     "name": "Camerupt",
     "cname": "喷火驼",
     "form": "Mega",
@@ -21332,7 +21332,7 @@ module.exports = [
     "index": 383
   },
   {
-    "id": "334a",
+    "id": "334-mega",
     "name": "Altaria",
     "cname": "七夕青鸟",
     "form": "Mega",
@@ -22537,7 +22537,7 @@ module.exports = [
     "index": 407
   },
   {
-    "id": "354a",
+    "id": "354-mega",
     "name": "Banette",
     "cname": "诅咒娃娃",
     "form": "Mega",
@@ -22845,7 +22845,7 @@ module.exports = [
     "index": 413
   },
   {
-    "id": "359a",
+    "id": "359-mega",
     "name": "Absol",
     "cname": "阿勃梭鲁",
     "form": "Mega",
@@ -23055,7 +23055,7 @@ module.exports = [
     "index": 417
   },
   {
-    "id": "362a",
+    "id": "362-mega",
     "name": "Glalie",
     "cname": "冰鬼护",
     "form": "Mega",
@@ -23709,7 +23709,7 @@ module.exports = [
     "index": 429
   },
   {
-    "id": "373a",
+    "id": "373-mega",
     "name": "Salamence",
     "cname": "暴飞龙",
     "form": "Mega",
@@ -23941,7 +23941,7 @@ module.exports = [
     "index": 433
   },
   {
-    "id": "376a",
+    "id": "376-mega",
     "name": "Metagross",
     "cname": "巨金怪",
     "form": "Mega",
@@ -24172,7 +24172,7 @@ module.exports = [
     "index": 438
   },
   {
-    "id": "380a",
+    "id": "380-mega",
     "name": "Latias",
     "cname": "拉帝亚斯",
     "form": "Mega",
@@ -24261,7 +24261,7 @@ module.exports = [
     "index": 440
   },
   {
-    "id": "381a",
+    "id": "381-mega",
     "name": "Latios",
     "cname": "拉帝欧斯",
     "form": "Mega",
@@ -24522,7 +24522,7 @@ module.exports = [
     "index": 446
   },
   {
-    "id": "384a",
+    "id": "384-mega",
     "name": "Rayquaza",
     "cname": "烈空坐",
     "form": "Mega",
@@ -27196,7 +27196,7 @@ module.exports = [
     "index": 496
   },
   {
-    "id": "428a",
+    "id": "428-mega",
     "name": "Lopunny",
     "cname": "长耳兔",
     "form": "Mega",
@@ -28159,7 +28159,7 @@ module.exports = [
     "index": 514
   },
   {
-    "id": "445a",
+    "id": "445-mega",
     "name": "Garchomp",
     "cname": "烈咬陆鲨",
     "form": "Mega",
@@ -28383,7 +28383,7 @@ module.exports = [
     "index": 518
   },
   {
-    "id": "448a",
+    "id": "448-mega",
     "name": "Lucario",
     "cname": "路卡利欧",
     "form": "Mega",
@@ -29071,7 +29071,7 @@ module.exports = [
     "index": 531
   },
   {
-    "id": "460a",
+    "id": "460-mega",
     "name": "Abomasnow",
     "cname": "暴雪王",
     "form": "Mega",
@@ -29993,7 +29993,7 @@ module.exports = [
     "index": 547
   },
   {
-    "id": "475a",
+    "id": "475-mega",
     "name": "Gallade",
     "cname": "艾路雷朵",
     "form": "Mega",
@@ -33235,7 +33235,7 @@ module.exports = [
     "index": 611
   },
   {
-    "id": "531a",
+    "id": "531-mega",
     "name": "Audino",
     "cname": "差不多娃娃",
     "form": "Mega",
@@ -43818,7 +43818,7 @@ module.exports = [
     "index": 813
   },
   {
-    "id": "719a",
+    "id": "719-mega",
     "name": "Diancie",
     "cname": "蒂安希",
     "form": "Mega",
