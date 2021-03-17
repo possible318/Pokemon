@@ -1518,10 +1518,10 @@ module.exports = [
         ],
         "evolutions": [
             {
-                "id": "019a"
+                "id": "019-alola"
             },
             {
-                "id": "020a",
+                "id": "020-alola",
                 "other": "Lv.20夜晚"
             }
         ],
@@ -1629,10 +1629,10 @@ module.exports = [
         ],
         "evolutions": [
             {
-                "id": "019a"
+                "id": "019-alola"
             },
             {
-                "id": "020a",
+                "id": "020-alola",
                 "other": "Lv.20夜晚"
             }
         ],
@@ -2035,7 +2035,7 @@ module.exports = [
                 "other": "亲密度220"
             },
             {
-                "id": "026a",
+                "id": "026-alola",
                 "stone": "雷之石"
             }
         ],
@@ -2143,7 +2143,7 @@ module.exports = [
         ],
         "evolutions": [
             {
-                "id": "027a"
+                "id": "027-alola"
             },
             {
                 "id": "028a",
@@ -2254,10 +2254,10 @@ module.exports = [
         ],
         "evolutions": [
             {
-                "id": "027a"
+                "id": "027-alola"
             },
             {
-                "id": "028a",
+                "id": "028-alola",
                 "stone": "冰之石"
             }
         ],
@@ -2831,10 +2831,10 @@ module.exports = [
         ],
         "evolutions": [
             {
-                "id": "037a"
+                "id": "037-alola"
             },
             {
-                "id": "038a",
+                "id": "038-alola",
                 "stone": "冰之石"
             }
         ],
@@ -2942,10 +2942,10 @@ module.exports = [
         ],
         "evolutions": [
             {
-                "id": "037a"
+                "id": "037-alola"
             },
             {
-                "id": "038a",
+                "id": "038-alola",
                 "stone": "冰之石"
             }
         ],
@@ -3709,10 +3709,10 @@ module.exports = [
         ],
         "evolutions": [
             {
-                "id": "050a"
+                "id": "050-alola"
             },
             {
-                "id": "051a",
+                "id": "051-alola",
                 "level": 26
             }
         ],
@@ -3820,10 +3820,10 @@ module.exports = [
         ],
         "evolutions": [
             {
-                "id": "050a"
+                "id": "050-alola"
             },
             {
-                "id": "051a",
+                "id": "051-alola",
                 "level": 26
             }
         ],
@@ -3929,10 +3929,10 @@ module.exports = [
         ],
         "evolutions": [
             {
-                "id": "052a"
+                "id": "052-alola"
             },
             {
-                "id": "053a",
+                "id": "053-alola",
                 "other": "亲密度220"
             }
         ],
@@ -4038,10 +4038,10 @@ module.exports = [
         ],
         "evolutions": [
             {
-                "id": "052a"
+                "id": "052-alola"
             },
             {
-                "id": "053a",
+                "id": "053-alola",
                 "other": "亲密度220"
             }
         ],
@@ -5384,14 +5384,14 @@ module.exports = [
         ],
         "evolutions": [
             {
-                "id": "074a"
+                "id": "074-alola"
             },
             {
-                "id": "075a",
+                "id": "075-alola",
                 "level": 25
             },
             {
-                "id": "076a",
+                "id": "076-alola",
                 "exchange": ""
             }
         ],
@@ -5509,14 +5509,14 @@ module.exports = [
         ],
         "evolutions": [
             {
-                "id": "074a"
+                "id": "074-alola"
             },
             {
-                "id": "075a",
+                "id": "075-alola",
                 "level": 25
             },
             {
-                "id": "076a",
+                "id": "076-alola",
                 "exchange": ""
             }
         ],
@@ -5634,14 +5634,14 @@ module.exports = [
         ],
         "evolutions": [
             {
-                "id": "074a"
+                "id": "074-alola"
             },
             {
-                "id": "075a",
+                "id": "075-alola",
                 "level": 25
             },
             {
-                "id": "076a",
+                "id": "076-alola",
                 "exchange": ""
             }
         ],
@@ -6431,10 +6431,10 @@ module.exports = [
         ],
         "evolutions": [
             {
-                "id": "088a"
+                "id": "088-alola"
             },
             {
-                "id": "089a",
+                "id": "089-alola",
                 "level": 38
             }
         ],
@@ -6544,10 +6544,10 @@ module.exports = [
         ],
         "evolutions": [
             {
-                "id": "088a"
+                "id": "088-alola"
             },
             {
-                "id": "089a",
+                "id": "089-alola",
                 "level": 38
             }
         ],
@@ -7438,7 +7438,7 @@ module.exports = [
                 "id": "102"
             },
             {
-                "id": "103a",
+                "id": "103-alola",
                 "stone": "叶之石"
             }
         ],
@@ -7603,7 +7603,7 @@ module.exports = [
                 "id": "104"
             },
             {
-                "id": "105a",
+                "id": "105-alola",
                 "level": 28
             }
         ],
