@@ -34322,7 +34322,7 @@ module.exports = [
     "index": 631
   },
   {
-    "id": "550a",
+    "id": "550-blue",
     "name": "Basculin",
     "cname": "野蛮鲈鱼",
     "form": "Blue",
@@ -41505,10 +41505,10 @@ module.exports = [
     "index": 768
   },
   {
-    "id": "678a",
+    "id": "678-male",
     "name": "Meowstic",
     "cname": "超能妙喵",
-    "form": "♀",
+    "form": "Male",
     "species": "抑制",
     "generation": 6,
     "gendercode": 127,
@@ -45447,7 +45447,7 @@ module.exports = [
     "index": 844
   },
   {
-    "id": "745a",
+    "id": "745-midnight",
     "name": "Lycanroc",
     "cname": "鬃岩狼人",
     "form": "Midnight",
@@ -45493,7 +45493,7 @@ module.exports = [
         "id": "744"
       },
       {
-        "id": "745a",
+        "id": "745-midnight",
         "level": 25
       }
     ],
@@ -45542,7 +45542,7 @@ module.exports = [
     "index": 846
   },
   {
-    "id": "746a",
+    "id": "746-school",
     "name": "Wishiwashi",
     "cname": "弱丁鱼",
     "form": "School",
