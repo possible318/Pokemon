@@ -18,6 +18,7 @@
       <text class="m-type {{type}}" wx:for="{{sprite.type}}" wx:key="unique" wx:for-item="type" wx:for-index="index">{{sprite.ctype[index]}}</text>
     </view>
   </view>
+  <image class="m-pic" src="/img/sprites-2/{{sprite.id}}.png"></image>
   <text class="ctntitle">基本信息</text>
   <view class="baseInfo ctn">
     <view class="item">

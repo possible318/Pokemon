@@ -36,6 +36,12 @@
   vertical-align: baseline;
 }
 
+.m-pic {
+  margin-top: 15rpx;
+  height: 120px;
+  width: 120px;
+}
+
 .m-sprite .m-info {
   display: inline-block;
   margin-left: 20rpx;
