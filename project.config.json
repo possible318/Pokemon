@@ -21,12 +21,19 @@
 		"enhance": false,
 		"useCompilerModule": false,
 		"userConfirmedUseCompilerModuleSwitch": false,
-		"showShadowRootInWxmlPanel": true
+		"showShadowRootInWxmlPanel": true,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		}
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.16.0",
 	"appid": "wx82cac8b4f8d81834",
-	"projectname": "miniprogram-1",
+	"projectname": "pokedex-master",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},

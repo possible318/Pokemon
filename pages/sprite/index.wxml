@@ -2,6 +2,7 @@
 <view class="container">
   <view class="m-sprite" bindtap="toResist" data-id="{{sprite.id}}">
     <image class="m-avatar" src="/img/sprites/{{sprite.id}}.png"></image>
+    <!-- 添加高清大图  -->
     <view class="m-info">
       <view class="name">
         <text>{{sprite.showname}}</text>
