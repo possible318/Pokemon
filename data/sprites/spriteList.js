@@ -22254,7 +22254,7 @@ module.exports = [
     "index": 401
   },
   {
-    "id": "351a",
+    "id": "351-sunny",
     "name": "Castform",
     "cname": "飘浮泡泡",
     "form": "Sunny",
@@ -22299,7 +22299,7 @@ module.exports = [
     "index": 402
   },
   {
-    "id": "351b",
+    "id": "351-rainy",
     "name": "Castform",
     "cname": "飘浮泡泡",
     "form": "Rainy",
@@ -22344,7 +22344,7 @@ module.exports = [
     "index": 403
   },
   {
-    "id": "351c",
+    "id": "351-snowy",
     "name": "Castform",
     "cname": "飘浮泡泡",
     "form": "Snowy",
@@ -24348,7 +24348,7 @@ module.exports = [
     "index": 442
   },
   {
-    "id": "382a",
+    "id": "382-primal",
     "name": "Kyogre",
     "cname": "盖欧卡",
     "form": "Primal",
@@ -24433,7 +24433,7 @@ module.exports = [
     "index": 444
   },
   {
-    "id": "383a",
+    "id": "383-primal",
     "name": "Groudon",
     "cname": "固拉多",
     "form": "Primal",
@@ -24653,7 +24653,7 @@ module.exports = [
     "index": 449
   },
   {
-    "id": "386a",
+    "id": "386-attack",
     "name": "Deoxys",
     "cname": "代欧奇希斯",
     "form": "Attack",
@@ -24696,7 +24696,7 @@ module.exports = [
     "index": 450
   },
   {
-    "id": "386b",
+    "id": "386-defense",
     "name": "Deoxys",
     "cname": "代欧奇希斯",
     "form": "Defense",
@@ -24739,7 +24739,7 @@ module.exports = [
     "index": 451
   },
   {
-    "id": "386c",
+    "id": "386-speed",
     "name": "Deoxys",
     "cname": "代欧奇希斯",
     "form": "Speed",
@@ -26288,7 +26288,7 @@ module.exports = [
     "index": 479
   },
   {
-    "id": "413a",
+    "id": "413-sandy",
     "name": "Wormadam",
     "cname": "结草贵妇",
     "form": "Sandy",
@@ -26345,7 +26345,7 @@ module.exports = [
     "index": 480
   },
   {
-    "id": "413b",
+    "id": "413-trash",
     "name": "Wormadam",
     "cname": "结草贵妇",
     "form": "Trash",
@@ -30268,7 +30268,7 @@ module.exports = [
     "index": 552
   },
   {
-    "id": "479a",
+    "id": "479-heat",
     "name": "Rotom",
     "cname": "洛托姆",
     "form": "Heat",
@@ -30313,7 +30313,7 @@ module.exports = [
     "index": 553
   },
   {
-    "id": "479b",
+    "id": "479-wash",
     "name": "Rotom",
     "cname": "洛托姆",
     "form": "Wash",
@@ -30358,7 +30358,7 @@ module.exports = [
     "index": 554
   },
   {
-    "id": "479c",
+    "id": "479-frost",
     "name": "Rotom",
     "cname": "洛托姆",
     "form": "Frost",
@@ -30403,7 +30403,7 @@ module.exports = [
     "index": 555
   },
   {
-    "id": "479d",
+    "id": "479-fan",
     "name": "Rotom",
     "cname": "洛托姆",
     "form": "Fan",
@@ -30448,7 +30448,7 @@ module.exports = [
     "index": 556
   },
   {
-    "id": "479e",
+    "id": "479-mow",
     "name": "Rotom",
     "cname": "洛托姆",
     "form": "Mow",
@@ -30837,7 +30837,7 @@ module.exports = [
     "index": 565
   },
   {
-    "id": "487a",
+    "id": "487-origin",
     "name": "Giratina",
     "cname": "骑拉帝纳",
     "form": "Origin",
@@ -31102,7 +31102,7 @@ module.exports = [
     "index": 571
   },
   {
-    "id": "492a",
+    "id": "492-sky",
     "name": "Shaymin",
     "form": "Sky",
     "cname": "谢米",
@@ -34646,7 +34646,7 @@ module.exports = [
     "index": 637
   },
   {
-    "id": "555a",
+    "id": "555-zen",
     "name": "Darmanitan",
     "cname": "达摩狒狒",
     "form": "Zen",
@@ -39241,7 +39241,7 @@ module.exports = [
     "index": 724
   },
   {
-    "id": "641a",
+    "id": "641-therian",
     "name": "Tornadus",
     "cname": "龙卷云",
     "form": "Therian",
@@ -39329,7 +39329,7 @@ module.exports = [
     "index": 726
   },
   {
-    "id": "642a",
+    "id": "642-therian",
     "name": "Thundurus",
     "cname": "雷电云",
     "form": "Therian",
@@ -39507,7 +39507,7 @@ module.exports = [
     "index": 730
   },
   {
-    "id": "645a",
+    "id": "645-therian",
     "name": "Landorus",
     "cname": "土地云",
     "form": "Therian",
@@ -39596,7 +39596,7 @@ module.exports = [
     "index": 732
   },
   {
-    "id": "646a",
+    "id": "646-black",
     "name": "Kyurem",
     "cname": "酋雷姆",
     "form": "Black",
@@ -39641,7 +39641,7 @@ module.exports = [
     "index": 733
   },
   {
-    "id": "646b",
+    "id": "646-white",
     "name": "Kyurem",
     "cname": "酋雷姆",
     "form": "White",
@@ -39774,7 +39774,7 @@ module.exports = [
     "index": 736
   },
   {
-    "id": "648a",
+    "id": "648-pirouette",
     "name": "Meloetta",
     "cname": "美洛耶塔",
     "form": "Pirouette",
@@ -41034,7 +41034,7 @@ module.exports = [
     "index": 759
   },
   {
-    "id": "670a",
+    "id": "670-eternal",
     "name": "Floette",
     "cname": "花叶蒂",
     "form": "Eternal",
@@ -41727,7 +41727,7 @@ module.exports = [
     "index": 772
   },
   {
-    "id": "681a",
+    "id": "681-blade",
     "name": "Aegislash",
     "cname": "坚盾剑怪",
     "form": "Blade",
@@ -43907,7 +43907,7 @@ module.exports = [
     "index": 815
   },
   {
-    "id": "720a",
+    "id": "720-unbound",
     "name": "Hoopa",
     "cname": "胡帕",
     "form": "Unbound",
