@@ -43687,7 +43687,7 @@ module.exports = [
         "index": 810
     },
     {
-        "id": "718a",
+        "id": "718-10",
         "name": "Zygarde",
         "cname": "基格尔德",
         "form": "10%",
@@ -43731,7 +43731,7 @@ module.exports = [
         "index": 811
     },
     {
-        "id": "718b",
+        "id": "718-100",
         "name": "Zygarde",
         "cname": "基格尔德",
         "form": "100%",
