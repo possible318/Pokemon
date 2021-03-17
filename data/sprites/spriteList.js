@@ -2146,7 +2146,7 @@ module.exports = [
                 "id": "027-alola"
             },
             {
-                "id": "028a",
+                "id": "028-alola",
                 "stone": "冰之石"
             }
         ],
