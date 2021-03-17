@@ -1,7 +1,7 @@
 <!--index.wxml-->
 <view class="container">
   <view class="m-sprite" bindtap="toResist" data-id="{{sprite.id}}">
-    <image class="m-avatar" src="/img/sprites-2/{{sprite.id}}.png"></image>
+    <image class="m-avatar" src="http://img.jianxiaodai.com/pokemon/{{sprite.id}}.png"></image>
     <!-- 添加高清大图  -->
     <view class="m-info">
       <view class="name">
@@ -18,7 +18,7 @@
       <text class="m-type {{type}}" wx:for="{{sprite.type}}" wx:key="unique" wx:for-item="type" wx:for-index="index">{{sprite.ctype[index]}}</text>
     </view>
   </view>
-  <image class="m-pic" src="/img/sprites-2/{{sprite.id}}.png"></image>
+  <image class="m-pic" src="http://img.jianxiaodai.com/pokemon/{{sprite.id}}.png"></image>
   <text class="ctntitle">基本信息</text>
   <view class="baseInfo ctn">
     <view class="item">
@@ -164,7 +164,7 @@
           <text wx:else class="nolevel">''</text>
           <view class="evoIteminner" bindtap="tapSprite" data-id="{{evolute.id}}" data-index="{{evolute.index}}">
             <view class="avatarctn">
-              <image class="m-avatar" src="/img/sprites-2/{{evolute.id }}.png"></image>
+              <image class="m-avatar" src="http://img.jianxiaodai.com/pokemon/{{evolute.id }}.png"></image>
             </view>
             <text class="name">{{evolute.cname}}</text>
           </view>
