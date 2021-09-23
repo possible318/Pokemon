@@ -19,7 +19,7 @@ Page({
     });
     if (options.isFilter && options.filter) {
       // 筛选后的列表
-      this.filterList = app.globalObject.filter(JSON.parse(options.filter));
+      this.filterList = app.spriteObject.filter(JSON.parse(options.filter));
       var last = this.data.pageNo * this.data.pageSize + this.data.pageSize - 1;
       this.setData({
         spriteList: this.filterList.slice(0, last),
@@ -28,7 +28,7 @@ Page({
         maxPageNo: Math.ceil(this.filterList.length / this.data.pageSize)
       });
     } else {
-      this.filterList = app.globalObject.spriteList;
+      this.filterList = app.spriteObject.spriteList;
       var last = this.data.pageNo * this.data.pageSize + this.data.pageSize - 1;
       // 未筛选的列表
       this.setData({

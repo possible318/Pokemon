@@ -19,7 +19,7 @@ Page({
    * 生命周期函数--监听页面加载
    */
   onLoad: function (options) {
-    var item = app.globalObject.getItemById(options.id);
+    var item = app.spriteObject.getItemById(options.id);
     wx.setNavigationBarTitle({
       title: item.cname
     });
@@ -133,7 +133,7 @@ Page({
         var happinesskey = 'happiness' + (i ? i : '');
         var exchangekey = 'exchange' + (i ? i : '');
         var otherkey = 'other' + (i ? i : '');
-        var sprite = idvalue ? app.globalObject.getItemById(idvalue) : {};
+        var sprite = idvalue ? app.spriteObject.getItemById(idvalue) : {};
         var e = {
           id: step3[idkey],
           level: step3[levelkey],
@@ -159,7 +159,7 @@ Page({
         var happinesskey = 'happiness' + (i ? i : '');
         var exchangekey = 'exchange' + (i ? i : '');
         var otherkey = 'other' + (i ? i : '');
-        var sprite = idvalue ? app.globalObject.getItemById(idvalue) : {};
+        var sprite = idvalue ? app.spriteObject.getItemById(idvalue) : {};
         var e = {
           id: step2[idkey],
           level: step2[levelkey],
@@ -185,7 +185,7 @@ Page({
         var happinesskey = 'happiness' + (i ? i : '');
         var exchangekey = 'exchange' + (i ? i : '');
         var otherkey = 'other' + (i ? i : '');
-        var sprite = idvalue ? app.globalObject.getItemById(idvalue) : {};
+        var sprite = idvalue ? app.spriteObject.getItemById(idvalue) : {};
         var e = {
           id: step1[idkey],
           level: step1[levelkey],

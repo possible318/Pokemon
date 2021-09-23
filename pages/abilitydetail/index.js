@@ -10,7 +10,7 @@ Page({
   onShareAppMessage: function (e) {
   },
   onLoad: function (options) {
-    var spriteList = app.globalObject.getItemsByAbility(options.id);
+    var spriteList = app.spriteObject.getItemsByAbility(options.id);
     var abilityObject = ability.getAbility(options.id);
     wx.setNavigationBarTitle({
       title: abilityObject.cname

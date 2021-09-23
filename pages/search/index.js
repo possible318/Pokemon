@@ -11,7 +11,7 @@ Page({
       mask: true,
       title: '数据加载中'
     });
-    this.filterList = app.globalObject.spriteList;
+    this.filterList = app.spriteObject.spriteList;
   },
   onReady: function () {
     wx.hideLoading();

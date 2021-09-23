@@ -16,7 +16,7 @@ Page({
      * 生命周期函数--监听页面加载
      */
     onLoad: function (options) {
-        var sprite = app.globalObject.getItemById(options.id);
+        var sprite = app.spriteObject.getItemById(options.id);
         sprite.ctype = [];
         sprite.typeTable = [];
         for (var i = 0, l = sprite.type.length; i < l; i++) {

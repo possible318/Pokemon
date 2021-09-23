@@ -10,11 +10,12 @@
     "pages/abilitydetail/index",
     "pages/logs/logs",
     "pages/info/index",
-    "pages/advertisement/index"
+    "pages/advertisement/index",
+    "pages/item/index"
   ],
   "window": {
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#DC4343",
+    "navigationBarBackgroundColor": "#ffe51a",
     "navigationBarTitleText": "POKEMON",
     "navigationBarTextStyle": "white",
     "backgroundColor": "#EFEFF4"
@@ -32,8 +33,14 @@
         "selectedIconPath": "/img/icon_tabbar_pokemon_selected.png"
       },
       {
+        "pagePath": "pages/item/index",
+        "text": "道具",
+        "iconPath": "/img/icon_tabbar_info_normal.png",
+        "selectedIconPath": "/img/icon_tabbar_info_selected.png"
+      },
+      {
         "pagePath": "pages/info/index",
-        "text": "信息",
+        "text": "关于",
         "iconPath": "/img/icon_tabbar_info_normal.png",
         "selectedIconPath": "/img/icon_tabbar_info_selected.png"
       }
