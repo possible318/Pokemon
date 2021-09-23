@@ -16,7 +16,7 @@
     </view>
   </view>
   <view class="m-sprite" data-id="{{sprite.id}}">
-    <image class="m-avatar" src="http://img.jianxiaodai.com/pokemon/{{sprite.id }}.png"></image>
+    <image class="m-avatar" src="http://img.dishesdog.com/pokemon/{{sprite.id }}.png"></image>
     <text class="name">{{sprite.cname}}</text>
     <view class="types">
       <text class="m-type {{item}}" wx:for="{{sprite.type}}" wx:key="unique" wx:for-index="index">{{sprite.ctype[index]}}</text>
