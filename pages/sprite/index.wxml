@@ -164,7 +164,7 @@
           <text wx:else class="nolevel">''</text>
           <view class="evoIteminner" bindtap="tapSprite" data-id="{{evolute.id}}" data-index="{{evolute.index}}">
             <view class="avatarctn">
-              <image class="m-avatar" src="http://img.jianxiaodai.com/pokemon/{{evolute.id }}.png"></image>
+              <image class="m-avatar" src="http://img.dishesdog.com/pokemon/{{evolute.id }}.png"></image>
             </view>
             <text class="name">{{evolute.cname}}</text>
           </view>
